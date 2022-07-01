@@ -1,4 +1,4 @@
-# csf315project
+# ICTD PROJECT
 
 Hi folks
 This is a basic app where I experimented on taking surveys from users who are not literate and has difficulty in using a smartphone.
